@@ -21,4 +21,3 @@ train_test_split – Splits the dataset into training and testing data.
 4.LogisticRegression – Used to build the binary classification model.
 
 accuracy_score – Used to measure how accurate the model’s predictions are.
-iima
