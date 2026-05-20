@@ -6,18 +6,8 @@ A Logistic Regression model is trained on the training data to learn patterns be
 <br>
 Important Libraries Used:
 <br>
-1. NumPy (numpy)
-
-Used for handling numerical data and arrays.
-
-2. Pandas (pandas)
-
-Used for loading and managing the dataset in a structured table format (DataFrame).
-
-3. Scikit-learn (sklearn)
-
-train_test_split – Splits the dataset into training and testing data.
-
-4. LogisticRegression – Used to build the binary classification model.
-
-accuracy_score – Used to measure how accurate the model’s predictions are.
+1. NumPy (numpy) : used for handling numerical data and arrays.
+2. Pandas (pandas) : used for loading and managing the dataset in a structured table format (DataFrame).
+3. Scikit-learn (sklearn) : train_test_split – Splits the dataset into training and testing data.
+4. LogisticRegression : used to build the binary classification model.
+5. accuracy_score – Used to measure how accurate the model’s predictions are.
