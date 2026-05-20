@@ -1,5 +1,5 @@
 # ROCK-VS-MINE-PREDICTION
-# DESCRIPTION OF THE TASK
+## DESCRIPTION OF THE TASK
 This project is a machine learning model that predicts whether an object detected by sonar signals is a rock or a mine. The dataset contains different numerical features extracted from sonar waves reflected by objects underwater.
 <br>
 A Logistic Regression model is trained on the training data to learn patterns between rocks and mines. Finally, the model’s performance is checked using accuracy score to see how well it can correctly classify new data.
